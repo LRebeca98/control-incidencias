@@ -11,7 +11,7 @@ import org.japo.java.libraries.UtilesNotificaciones;
 
 /**
  *
- * @author Adrián Bueno Olmedo <adrian.bueno.alum@iescamp.es>
+ * 
  */
 public final class Notificacion {
 

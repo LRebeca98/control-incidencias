@@ -11,7 +11,7 @@ import org.japo.java.libraries.UtilesIncidencias;
 
 /**
  *
- * @author Adrián Bueno Olmedo <adrian.bueno.alum@iescamp.es>
+ * 
  */
 public class Incidencia {
 

@@ -9,7 +9,7 @@ import java.sql.Date;
 
 /**
  *
- * @author Adrián Bueno Olmedo <adrian.bueno.alum@iescamp.es>
+ * 
  */
 public final class UtilesNotificaciones {
 
