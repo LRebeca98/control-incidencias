@@ -11,12 +11,12 @@ import org.japo.java.libraries.UtilesUsuarios;
  *
  * @author Rebeca Del Amo Cano - rebeca.delamo.alum@iescamp.es
  */
-public class CommandUsuarioBorrado extends Command {
+//public class CommandUsuarioBorrado extends Command {
 
-    @Override
-    public void process() throws ServletException, IOException {
-        // Salida
-        String out = "usuario/usuario-borrado";
+//    @Override
+//    public void process() throws ServletException, IOException {
+//        // Salida
+//        String out = "usuario/usuario-borrado";
 
 //        // Validar Usuario YA Identificado
 //        if (validarSesion(request)) {
@@ -59,4 +59,4 @@ public class CommandUsuarioBorrado extends Command {
 //        forward(out);
 //    }
 
-}
+//}
