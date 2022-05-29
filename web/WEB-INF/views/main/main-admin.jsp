@@ -15,7 +15,9 @@
             <main>
                 <h2>Página principal</h2>
                 <p>Página principal Administrador</p>
-                <a><a href="#">Continuar</a>
+                <a href="?cmd=usuario-galeria">Continuar</a>
+                <!--<a href="#">Continuar</a>-->
+
             </main>
             
              <%@include file="../partials/footer.jspf" %> 
